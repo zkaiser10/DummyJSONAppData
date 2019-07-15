@@ -1,0 +1,12 @@
+{
+  "authenticatedUser": [
+    {
+      "name": "Aaron",
+      "userid": "A1BC2DD",
+      "firstname": "Aaron",
+      "middlename": "Charles",
+      "lastname": "Rodgers",
+      "phonenum": "123-456-7891",
+      "email": "aaronrodgers@mmm.com",
+    }
+}
